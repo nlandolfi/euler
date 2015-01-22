@@ -7,7 +7,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 */
 package problems;
 
-public class Problem001 extends Problem {
+public class Problem001 {
 
     public static int Solution() {
         int sum = 0;
