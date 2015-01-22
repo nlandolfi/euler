@@ -12,4 +12,5 @@ func main() {
 	fmt.Printf(" * Problem  3: %d\n", problems.Solution003())
 	fmt.Printf(" * Problem  4: %d\n", problems.Solution004())
 	fmt.Printf(" * Problem  5: %d\n", problems.Solution005())
+	fmt.Printf(" * Problem  6: %d\n", problems.Solution006())
 }
