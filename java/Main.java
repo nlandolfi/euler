@@ -7,5 +7,6 @@ class Main {
         System.out.println(" * Problem 2: " + problems.Problem002.Solution());
         System.out.println(" * Problem 3: " + problems.Problem003.Solution());
         System.out.println(" * Problem 4: " + problems.Problem004.Solution());
+        System.out.println(" * Problem 5: " + problems.Problem005.Solution());
     }
 }
